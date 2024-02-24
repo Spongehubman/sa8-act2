@@ -1,4 +1,6 @@
 
+# Extra help in setting class variables to a certain value came from the "Classes" webpage from
+# Chris Pine's "Learn to Program" website, based upon his "Learn to Program: Third Edition".
 
 
 class BankAccount
