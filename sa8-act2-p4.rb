@@ -1,6 +1,6 @@
 
 # Reinforcement in writing classes and methods came from the "Classes" webpage from
-# Chris Pine's "Learn to Program" website, based upon his "Learn to Program: Third Edition".
+# Chris Pine's "Learn to Program" website, based on his book titled "Learn to Program: Third Edition".
 
 
 class Appliance
@@ -19,7 +19,7 @@ end
 
 # Reinforcement (and possibly inspiration) in writing these methods and
 # messages came from the "Classes" webpage from Chris Pine's "Learn to Program"
-# website, based upon his "Learn to Program: Third Edition".
+# website, based on his book titled "Learn to Program: Third Edition".
 class Refrigerator < Appliance
 
     def check_specs()
@@ -34,7 +34,7 @@ end
 
 # Reinforcement (and possibly inspiration) in writing these methods and
 # messages came from the "Classes" webpage from Chris Pine's "Learn to Program"
-# website, based upon his "Learn to Program: Third Edition".
+# website, based on his aforementioned book.
 class Microwave < Appliance
 
     def check_specs()

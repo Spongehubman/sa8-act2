@@ -9,7 +9,7 @@ class Camera
         @status = 'off'
 
         # Inspiration in writing the messagemes may have came from the "Classes" webpage from
-        # Chris Pine's "Learn to Program" website, based upon his "Learn to Program: Third Edition".
+        # Chris Pine's "Learn to Program" website, based on his book titled "Learn to Program: Third Edition".
         puts "Your camera is currently powered down."
 
     end
@@ -18,7 +18,7 @@ class Camera
         self.status = 'on'
 
         # Inspiration in writing the message may have came from the "Classes" webpage from
-        # Chris Pine's "Learn to Program" website, based upon his "Learn to Program: Third Edition".
+        # Chris Pine's "Learn to Program" website, based on his aforementioned book.
         puts "Your camera has been turned #{self.status}."
 
     end
@@ -27,7 +27,7 @@ class Camera
         self.status = 'off'
 
         # Inspiration in writing the message may have came from the "Classes" webpage from
-        # Chris Pine's "Learn to Program" website, based upon his "Learn to Program: Third Edition".
+        # Chris Pine's "Learn to Program" website, based on his aforementioned book.
         puts "Your camera has been turned #{self.status}."
 
     end
@@ -35,7 +35,7 @@ class Camera
     def take_picture()
         
         # Inspiration in writing the messages seen below may have came from the "Classes" webpage from
-        # Chris Pine's "Learn to Program" website, based upon his "Learn to Program: Third Edition".
+        # Chris Pine's "Learn to Program" website, based on his aforementioned book.
         puts "Your camera is currently #{self.status}."
 
         if self.status == 'off'

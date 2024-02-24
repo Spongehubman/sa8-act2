@@ -1,6 +1,6 @@
 
 # Extra help in setting class variables to a certain value came from the "Classes" webpage from
-# Chris Pine's "Learn to Program" website, based upon his "Learn to Program: Third Edition".
+# Chris Pine's "Learn to Program" website, based on his book titled "Learn to Program: Third Edition".
 
 
 class BankAccount
@@ -14,7 +14,7 @@ class BankAccount
 
 
     # Extra help in private methods and private method calls came from the "Classes" webpage from
-    # Chris Pine's "Learn to Program" website, based upon his "Learn to Program: Third Edition".
+    # Chris Pine's "Learn to Program" website, based on book titled "Learn to Program: Third Edition".
 
     def deposit(amount)
 
