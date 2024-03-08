@@ -19,7 +19,7 @@ class Car
         @name = name
     end
 
-    include drive
+    include Drivable
 
 end
 
@@ -28,7 +28,7 @@ class Truck
         @name = name
     end
 
-    include drive
+    include Drivable
 
 end
 
